@@ -1,0 +1,7 @@
+pre-trained weights for ctpn and ctc model
+
+### ctpn for text detection
+ep79_loss0.0216.h5
+
+### ctc for text recognition
+densenet_ctc_ep10-0.095_0.102_0.9840_0.9839.h5
